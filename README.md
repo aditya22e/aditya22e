@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **exciting projects in C++, SQL & Node.js**  
 - 🌱 I’m currently learning **advanced backend development & system design**  
 - 👯 I’m looking to collaborate on **open-source & full-stack projects**  
-- 📫 How to reach me: [dixitaditya619@gmail.com](mailto:dixitaditya619@gmail.com)  
+- 📫 Check out my portfolio: <a href=""><img src="(https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)" /></a>
 - ⚡ Fun fact: **I love problem-solving & competitive programming**  
 
 ---
