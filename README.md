@@ -22,7 +22,8 @@
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack  
 
-<p align="center"><!-- Astro -->
+<p align="center">
+  <!-- Astro -->
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 <!-- HTML -->
