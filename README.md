@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Aditya Dixit 👋</h1>
 <h3 align="center">Passionate Developer | Tech Enthusiast | Open-Source Contributor</h3>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya22e&label=Profile%20Views&color=0e75b6&style=flat" alt="Aditya22e" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **exciting projects in C++, SQL & Node.js**  
 - 🌱 I’m currently learning **advanced backend development & system design**  
 - 👯 I’m looking to collaborate on **open-source & full-stack projects**  
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)  
+- 📫 How to reach me: [dixitaditya619@gmail.com](mailto:dixitaditya619@gmail.com)  
 - ⚡ Fun fact: **I love problem-solving & competitive programming**  
 
 ---
