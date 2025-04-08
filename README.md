@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Aditya Dixit 👋</h1>
-<h3 align="center">Passionate Developer | Tech Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">Passionate Developer | Tech Enthusiast | Full Time Explorer</h3>
 
 <!-- Profile Views -->
 <p align="center">
